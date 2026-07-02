@@ -210,7 +210,7 @@ const CONFIG = {
     contactPlaceholder: "e.g. large bluegum 15m, close to wall, need felling and stump removed",
 
     // ─── CLOSING CTA BAND ──────────────────────────────────
-    ctaBannerTitle: "Locked out <em>right now?</em>",
-    ctaBannerSub:   "One call and the nearest technician starts moving."
+    ctaBannerTitle: "Storm-damaged tree <em>over the house?</em>",
+    ctaBannerSub:   "One call and a team with the right gear is on the way."
   }
 };
